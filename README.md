@@ -7,3 +7,4 @@ Fungsi Program:
 •	Update: Memperbarui data hero yang dipilih
 •	Delete: Menghapus hero yang dipilih
 
+<img width="1680" alt="Jepretan Layar 2025-07-03 pukul 20 46 52" src="https://github.com/user-attachments/assets/a2753a1d-0c1f-4030-a54f-241191a8baf0" />
